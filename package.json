@@ -1,0 +1,29 @@
+{
+  "name": "node-cafe24-api",
+  "version": "0.0.1",
+  "description": "Cafe24-API, which is easy to use for Node.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skymins04/node-cafe24-api.git"
+  },
+  "author": "Minsu Kang (skymin0417@gmail.com)",
+  "license": "N/A",
+  "bugs": {
+    "url": "https://github.com/skymins04/node-cafe24-api/issues"
+  },
+  "homepage": "https://github.com/skymins04/node-cafe24-api#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.8.1",
+    "@typescript-eslint/parser": "^5.8.1",
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
+  }
+}
